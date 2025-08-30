@@ -1,5 +1,5 @@
 <h1 align="center">Hi It's ZeroTrace</h1>
-<h3 align="center">Student developer exploring voice tech & game integration</h3>
+<h3 align="center">Student by degree, Developer by passion, learner for life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerotrace7&label=Profile%20views&color=0e75b6&style=flat" alt="zerotrace7" /> </p>
 
