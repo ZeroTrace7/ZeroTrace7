@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZeroTrace7](https://github.com/ZeroTrace7)
 
-- 📫 How to reach me on discord **shreyashgupta**
+- 📫 How to reach me on discord **Nitrodood_YT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
