@@ -1,4 +1,4 @@
-<h1 align="center">Hi Pookie. </h1>
+<h1 align="center">Hi Myself Shreyash. </h1>
 <h3 align="center">Student by degree, Developer by passion, learner for life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerotrace7&label=Profile%20views&color=0e75b6&style=flat" alt="zerotrace7" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZeroTrace7](https://github.com/ZeroTrace7)
 
-- 📫 How to reach me on discord **Nitrodood_YT**
+- 📫 How to reach me on discord **ShreyashGupta**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
