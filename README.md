@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerotrace7" alt="zerotrace7" /></a> </p>
 
-- 🔭 I’m currently working on **Insight_XR**
+- 🔭 I’m currently working on **ValVoice**
 
 - 🌱 I’m currently learning **Java, Node.js, Css**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZeroTrace7](https://github.com/ZeroTrace7)
 
-- 📫 How to reach me on discord **Nitrodood_YT**
+- 📫 How to reach me on discord **?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
