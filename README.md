@@ -1,9 +1,9 @@
 <!-- Header Capsule Render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6366f1,100:a855f7&height=200&section=header&text=ZeroTrace7&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20by%20degree%20%E2%80%A2%20Developer%20by%20passion%20%E2%80%A2%20Builder%20by%20choice&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6366f1,100:a855f7&height=200&section=header&text=Shreyash+Gupta&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20by%20degree%20%E2%80%A2%20Developer%20by%20passion%20%E2%80%A2%20Builder%20by%20choice&descAlignY=60&descSize=18"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Shreyash+%F0%9F%91%BE;2nd+Year+CSE+%40+SRMIST+Chennai;Building+Acrylic+%E2%80%94+glassmorphism+Chrome+ext;Prepping+for+Google+Big+Code+%F0%9F%8F%86;Full+Stack+%7C+ML+%7C+Competitive+Programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Shreyash+%F0%9F%91%BE;2nd+Year+CSE+%40+SRMIST+Chennai;Building+Acrylic+%E2%80%94+glassmorphism+Chrome+ext;Full+Stack+%7C+ML+%7C+Competitive+Programming" />
 </p>
 
 <!-- Badges Row -->
@@ -32,7 +32,6 @@ currently_building:
   - SecureAI-KYC (deepfake + UPI fraud detection system)
 
 currently_doing:
-  - Competitive Programming — Google Big Code Round 2 prep
   - Solving LeetCode daily (70+ solved)
   - Exploring RAG pipelines & Vision ML
 
@@ -59,17 +58,17 @@ contact:
 <td width="50%" valign="top">
 
 ### 🪟 Acrylic — New Tab
-Manifest V3 Chrome extension replacing your new tab with a glassmorphism UI. Features a Quick Links dock with 50+ preset apps, animated clock, custom wallpapers, and a glass pill sidebar — vanilla JS + ES modules + chrome.storage APIs.
+Manifest V3 Chrome extension replacing your new tab with a glassmorphism UI. Features a Quick Links dock with 50+ preset apps, animated clock, 8 premium themes (midnight, aurora, rose-noir & more), Pomodoro/Notes/Clipboard panels, drag-and-drop reordering, and a custom task manager with scribble strike-through animations — built with pure ES modules + `chrome.storage` APIs.
 
 [![Repo](https://img.shields.io/badge/GitHub-Acrylic__NewTab-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/Acrylic_NewTab)
 ![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
-![Lang](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Lang](https://img.shields.io/badge/TypeScript%20%7C%20JS%20%7C%20CSS-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔬 Insight XR
-Immersive STEM education platform with 7 interactive 3D modules (Solar System, DNA Helix, Circuits & more), AI tutor via Gemini 2.5 Flash, gamified achievements, quizzes, and role-based dashboards for students, teachers & admins.
+Next-gen immersive STEM education platform with 7 interactive 3D modules (Solar System, DNA Helix, Ohm's Law, EM Waves, Photosynthesis, Neon Atom, Java Basics), an AI tutor powered by Gemini 2.5 Flash, 70+ quiz questions, gamified achievements, streaks, and role-based dashboards for Students, Teachers & Admins.
 
 [![Repo](https://img.shields.io/badge/GitHub-insight__xr-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/insight_xr)
 [![Live](https://img.shields.io/badge/Live-insight--xr.vercel.app-22c55e?style=flat-square)](https://insight-xr.vercel.app)
@@ -80,20 +79,22 @@ Immersive STEM education platform with 7 interactive 3D modules (Solar System, D
 <tr>
 <td width="50%" valign="top">
 
-### 🦷 DentalSite
-A clean, responsive dental clinic website. Built to practice real-world frontend development with professional UI standards.
+### 🛡️ SecureAI-KYC
+AI-powered deepfake detection and UPI fraud prevention system. Combines computer vision and anomaly detection to flag forged identity documents and suspicious transaction patterns in real time — built for fintech-grade security.
 
-[![Repo](https://img.shields.io/badge/GitHub-DentalSite-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/DentalSite)
-![Lang](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-SecureAI--KYC-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/SecureAI-KYC)
+![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
+![Lang](https://img.shields.io/badge/Python%20%7C%20PyTorch%20%7C%20TensorFlow-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎌 Anime Website
-A frontend anime discovery/listing site with a visually rich UI — built to sharpen HTML/CSS/JS fundamentals.
+### 🎮 ValVoice — Your Chat, Your Voice
+Let your teammates *hear* what you type — in real time. ValVoice converts your Valorant chat (Party, Team, All & Whispers) into speech via an XTTS pipeline and routes it directly to your mic so your whole squad hears it. Streams XTTS audio via `HttpResponse.BodyHandlers.ofInputStream()` into JLayer with event-driven push-to-talk via `java.awt.Robot` — zero temp files, zero JavaFX latency. Runs quietly in the system tray with a sleek dark UI. Local-only, TLS-encrypted, zero analytics.
 
-[![Repo](https://img.shields.io/badge/GitHub-Anime--Website-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/Anime-Website)
-![Lang](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-f7df1e?style=flat-square&logoColor=black)
+[![Repo](https://img.shields.io/badge/GitHub-ValVoice-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/ValVoice)
+![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
+![Lang](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
 </tr>
@@ -174,35 +175,7 @@ A frontend anime discovery/listing site with a visually rich UI — built to sha
 
 ---
 
-## ⚔️ LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/zerotwo9?theme=dark&font=Fira+Code&ext=contest&border=0&radius=12" />
-</p>
-
-<br/>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zerotrace7&theme=tokyo-night&hide_border=true&area=true&radius=8" />
-</p>
-
-<br/>
-
----
-
 ## 🐍 Contribution Snake
-
-<!--
-  ⚠️ SETUP (5 min):
-  1. Go to ZeroTrace7 repo → Actions → New workflow
-  2. Create .github/workflows/snake.yml
-  3. Paste workflow from: https://github.com/Platane/snk
-  4. Run manually once → outputs will generate automatically
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeroTrace7/ZeroTrace7/output/github-snake-dark.svg" />
