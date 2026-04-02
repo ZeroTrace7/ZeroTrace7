@@ -22,7 +22,7 @@
 ## 🧠 About Me
 
 ```yaml
-name       : Shreyash Gupta
+name       : Someone
 alias      : ZeroTrace7
 role       : B.Tech CSE — 2nd Year @ SRMIST Chennai
 location   : India 🇮🇳
