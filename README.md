@@ -1,9 +1,9 @@
 <!-- Header Capsule Render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6366f1,100:a855f7&height=200&section=header&text=Hi+Pookie !&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20by%20degree%20%E2%80%A2%20Developer%20by%20passion%20%E2%80%A2%20Builder%20by%20choice&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6366f1,100:a855f7&height=200&section=header&text=Hi+Pookiee+!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20by%20degree%20%E2%80%A2%20Developer%20by%20passion%20%E2%80%A2%20Builder%20by%20choice&descAlignY=60&descSize=18"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Shreyash+%F0%9F%91%BE;2nd+Year+CSE+%40+SRMIST+Chennai;Building+Acrylic+%E2%80%94+glassmorphism+Chrome+ext;Full+Stack+%7C+ML+%7C+Competitive+Programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Someone+%F0%9F%91%BE;2nd+Year+CSE+%40+SRMIST+Chennai;Building+Acrylic+%E2%80%94+glassmorphism+Chrome+ext;Full+Stack+%7C+ML+%7C+Competitive+Programming" />
 </p>
 
 <!-- Badges Row -->
@@ -24,7 +24,7 @@
 ```yaml
 name       : Someone
 alias      : ZeroTrace7
-role       : B.Tech CSE — 2nd Year @ SRMIST Chennai
+role       : Unknown
 location   : India 🇮🇳
 
 currently_building:
