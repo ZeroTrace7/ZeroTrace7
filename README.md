@@ -24,7 +24,7 @@
 ```yaml
 name       : Someone
 alias      : ZeroTrace7
-role       : Unknown??
+role       : Unknown
 location   : India 🇮🇳
 
 currently_building:
@@ -175,12 +175,12 @@ Let your teammates *hear* what you type — in real time. ValVoice converts your
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeroTrace7/ZeroTrace7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeroTrace7/ZeroTrace7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZeroTrace7/ZeroTrace7/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace7&bg_color=1a1b27&color=a855f7&line=6366f1&point=c084fc&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace7&bg_color=ffffff&color=6366f1&line=a855f7&point=6366f1&area=true&hide_border=true" />
+  <img alt="contribution-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace7&bg_color=1a1b27&color=a855f7&line=6366f1&point=c084fc&area=true&hide_border=true" />
 </picture>
 
 <br/>
