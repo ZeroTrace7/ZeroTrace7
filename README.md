@@ -1,5 +1,5 @@
 <!-- Header Capsule Render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6366f1,100:a855f7&height=200&section=header&text=Hi+Pookiee+.&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20by%20degree%20%E2%80%A2%20Developer%20by%20passion%20%E2%80%A2%20Builder%20by%20choice&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6366f1,100:a855f7&height=200&section=header&text=Hi+Pookiee+!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20by%20degree%20%E2%80%A2%20Developer%20by%20passion%20%E2%80%A2%20Builder%20by%20choice&descAlignY=60&descSize=18"/>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -175,12 +175,12 @@ Let your teammates *hear* what you type — in real time. ValVoice converts your
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace7&bg_color=1a1b27&color=a855f7&line=6366f1&point=c084fc&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace7&bg_color=ffffff&color=6366f1&line=a855f7&point=6366f1&area=true&hide_border=true" />
-  <img alt="contribution-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace7&bg_color=1a1b27&color=a855f7&line=6366f1&point=c084fc&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeroTrace7/ZeroTrace7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeroTrace7/ZeroTrace7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZeroTrace7/ZeroTrace7/output/github-snake.svg" />
 </picture>
 
 <br/>
