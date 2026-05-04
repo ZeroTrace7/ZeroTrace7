@@ -42,9 +42,9 @@ interests:
   - Open Source & Hackathons
 
 contact:
-  linkedin : linkedin.com/in/shreyashgupta55
-  github   : github.com/ZeroTrace7
-  discord  : shreyashgupta
+  linkedin   : ?
+  Instagram  : ??
+  discord    : ???
 ```
 
 <br/>
