@@ -8,7 +8,7 @@
 
 <!-- Badges Row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zerotrace7&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=zerotrace7&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&abbreviated=true"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/zerotrace7?style=for-the-badge&color=a855f7&label=FOLLOWERS"/>
   &nbsp;
