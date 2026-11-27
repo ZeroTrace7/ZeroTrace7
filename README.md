@@ -36,7 +36,7 @@ currently_shipping:
 
 current_vibe:
   - 🛠️ Making things that solve my own annoyances (and accidentally shipping them)
-  - 🔥 Hermes Agent Olympian · Let Him Cook (51/60 badges)
+  - 🏆 Hermes Agent Olympian · Let Him Cook & Skill Issue? Skill Created.
   - ⚡ Grinding DSA, AI agents & weekend hackathon sprints
 
 interests:
@@ -202,10 +202,10 @@ Play Connect 4 against a sneaky-smart AI using actual **hand gestures on your we
 ## 🏆 Hermes Agent — Olympian Tier
 
 <p align="center">
-  <img src="./assets/hermes-olympian.svg" alt="Hermes Agent Olympian Tier — Let Him Cook" width="760" />
+  <img src="./assets/hermes-olympian.svg" alt="Hermes Agent Olympian Tier — Let Him Cook &amp; Skill Issue? Skill Created." width="760" />
 </p>
 <p align="center">
-  <sub>🔥 <b>Let Him Cook</b> (Olympian Tier · Agent Autonomy) &nbsp;•&nbsp; <b>51 / 60</b> Badges Unlocked &nbsp;•&nbsp; <b>12</b> Providers · <b>37</b> Models · <b>1,376</b> Tool Calls</sub>
+  <sub>🔥 <b>Let Him Cook</b> &amp; ⚒️ <b>Skill Issue? Skill Created.</b> (Olympian Tier) &nbsp;•&nbsp; <b>51 / 60</b> Badges Unlocked &nbsp;•&nbsp; <b>12</b> Providers · <b>37</b> Models · <b>243</b> Sessions</sub>
 </p>
 
 <br/>
