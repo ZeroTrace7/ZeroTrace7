@@ -202,7 +202,7 @@ Play Connect 4 against a sneaky-smart AI using actual **hand gestures on your we
 ## 🏆 Hermes Agent — Olympian Tier
 
 <p align="center">
-  <img src="./assets/hermes-olympian.svg" alt="Hermes Agent Olympian Tier — Let Him Cook &amp; Skill Issue? Skill Created." width="760" />
+  <img src="./assets/hermes-olympian.svg" alt="Hermes Agent Olympian Tier — Let Him Cook &amp; Skill Issue? Skill Created." width="100%" />
 </p>
 <p align="center">
   <sub>🔥 <b>Let Him Cook</b> &amp; ⚒️ <b>Skill Issue? Skill Created.</b> (Olympian Tier) &nbsp;•&nbsp; <b>51 / 60</b> Badges Unlocked &nbsp;•&nbsp; <b>12</b> Providers · <b>37</b> Models · <b>243</b> Sessions</sub>
