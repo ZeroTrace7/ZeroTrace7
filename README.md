@@ -12,6 +12,8 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/zerotrace7?style=for-the-badge&color=a855f7&label=FOLLOWERS"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/HERMES-OLYMPIAN_TIER-9333ea?style=for-the-badge"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/OPEN%20TO-Collabs%20%26%20Hackathons-22c55e?style=for-the-badge"/>
 </p>
 
@@ -22,30 +24,31 @@
 ## 🧠 About Me
 
 ```yaml
-name       : Someone
-alias      : ZeroTrace7
-role       : Unknown
-location   : India 🇮🇳
+name       : Someone 👾
+alias      : ZeroTrace7 🥷
+role       : Unknown 🎭
+location   : India 🌏
 
 currently_shipping:
-  - ValVoice   -> turning Valorant text chat into live agent voice comms (valvoice.app)
-  - Acrylic    -> a calm, frosted-glass new tab extension on Chrome & Firefox
-  - RankIntel  -> an AI agent that fixes websites for Google & AI search
+  - 🎙️ ValVoice   → turning Valorant text chat into live agent voice comms
+  - 🪟 Acrylic    → a calm, frosted-glass new tab extension on Chrome & Firefox
+  - ⚡ RankIntel  → an AI agent that fixes websites for Google & AI search
 
 current_vibe:
-  - Making things that solve my own annoyances (and accidentally shipping them)
-  - Grinding DSA, AI agents & weekend hackathon sprints
+  - 🛠️ Making things that solve my own annoyances (and accidentally shipping them)
+  - 🏆 Hermes Agent Olympian · Provider Polyglot (12 AI providers)
+  - ⚡ Grinding DSA, AI agents & weekend hackathon sprints
 
 interests:
-  - AI Agents & Applied ML
-  - Browser Extensions & Desktop Apps
-  - Full-Stack Web & Developer Tools
-  - Open Source & Hackathons
+  - 🤖 AI Agents & Applied ML
+  - 🧩 Browser Extensions & Desktop Apps
+  - 🌐 Full-Stack Web & Developer Tools
+  - 🚩 Open Source & Hackathons
 
 contact:
-  linkedin   : ?
-  Instagram  : ??
-  discord    : ???
+  linkedin   : ? 🔗
+  Instagram  : ?? 📸
+  discord    : ??? 🎮
 ```
 
 <br/>
@@ -191,6 +194,19 @@ Play Connect 4 against a sneaky-smart AI using actual **hand gestures on your we
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+<br/>
+
+---
+
+## 🏆 Hermes Agent — Olympian Tier
+
+<p align="center">
+  <img src="./assets/hermes-olympian.svg" alt="Hermes Agent Olympian Tier — Provider Polyglot" width="760" />
+</p>
+<p align="center">
+  <sub>🏅 <b>Provider Polyglot</b> (Max Olympian Tier · 12 AI Providers) &nbsp;•&nbsp; <b>1</b> Olympian · <b>4</b> Gold · <b>8</b> Silver · <b>6</b> Copper &nbsp;•&nbsp; <b>1,376</b> tool calls</sub>
+</p>
 
 <br/>
 
