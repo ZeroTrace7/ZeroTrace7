@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Someone+%F0%9F%91%BE;2nd+Year+CSE+%40+SRMIST+Chennai;Building+Acrylic+%E2%80%94+glassmorphism+Chrome+ext;Full+Stack+%7C+ML+%7C+Competitive+Programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Someone+%F0%9F%91%BE;3rd+Year+CSE+(AI+%26+ML)+%40+SRMIST+Chennai;Shipped+ValVoice+%26+Acrylic+%F0%9F%9A%80;Building+RankIntel+%26+weirdly+useful+tools" />
 </p>
 
 <!-- Badges Row -->
@@ -27,18 +27,19 @@ alias      : ZeroTrace7
 role       : Unknown
 location   : India 🇮🇳
 
-currently_building:
-  - Acrylic — New Tab (Manifest V3 glassmorphism Chrome extension)
-  - SecureAI-KYC (deepfake + UPI fraud detection system)
+currently_shipping:
+  - ValVoice   -> turning Valorant text chat into live agent voice comms (valvoice.app)
+  - Acrylic    -> a calm, frosted-glass new tab extension on Chrome & Firefox
+  - RankIntel  -> an AI agent that fixes websites for Google & AI search
 
-currently_doing:
-  - Solving LeetCode daily (70+ solved)
-  - Exploring RAG pipelines & Vision ML
+current_vibe:
+  - Making things that solve my own annoyances (and accidentally shipping them)
+  - Grinding DSA, AI agents & weekend hackathon sprints
 
 interests:
-  - Full Stack Development
-  - Machine Learning & AI Systems
-  - Browser Extension Engineering
+  - AI Agents & Applied ML
+  - Browser Extensions & Desktop Apps
+  - Full-Stack Web & Developer Tools
   - Open Source & Hackathons
 
 contact:
@@ -51,28 +52,52 @@ contact:
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
+### 🎙️ ValVoice — Your Chat, Your Voice
+Ever wished teammates actually *heard* your text callouts mid-round? Type in Valorant chat and ValVoice reads it straight into your squad's voice chat using **29+ agent voices** — all locally on Windows, no mic needed.
+
+[![Website](https://img.shields.io/badge/Live-valvoice.app-FA4454?style=flat-square)](https://valvoice.app/)
+[![Releases](https://img.shields.io/badge/Releases-v1.2.7-181717?style=flat-square&logo=github)](https://github.com/ValoVoice/ValVoice-Releases)
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
+![Stack](https://img.shields.io/badge/Java%20%7C%20C%23%20%7C%20Python-ED8B00?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🪟 Acrylic — New Tab
-Manifest V3 Chrome extension replacing your new tab with a glassmorphism UI. Features a Quick Links dock with 50+ preset apps, animated clock, 8 premium themes (midnight, aurora, rose-noir & more), Pomodoro/Notes/Clipboard panels, drag-and-drop reordering, and a custom task manager with scribble strike-through animations — built with pure ES modules + `chrome.storage` APIs.
+Turns your blank new tab into a calm, frosted-glass workspace. Packed with a to-do list (with scribble strike-offs!), Pomodoro timer, quick notes, Zen blackout mode, and custom video wallpapers — instant load, zero tracking.
 
 [![Repo](https://img.shields.io/badge/GitHub-Acrylic__NewTab-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/Acrylic_NewTab)
-![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
-![Lang](https://img.shields.io/badge/TypeScript%20%7C%20JS%20%7C%20CSS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![Chrome](https://img.shields.io/badge/Chrome-Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/acrylic-new-tab/cfoafjghblbnolmmkglboeddfpohjihi)
+[![Firefox](https://img.shields.io/badge/Firefox-Add--ons-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/acrylic-new-tab/)
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ RankIntel
+An autonomous AI search & SEO/GEO agent built for the ChatGPT + Perplexity era. Give it a URL and it audits site speed, AI-bot readiness, and competitor gaps — then spits out ready-to-paste fixes in seconds.
+
+[![Repo](https://img.shields.io/badge/GitHub-RankIntel-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/RankIntel)
+![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20%7C%20MCP-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔬 Insight XR
-Next-gen immersive STEM education platform with 7 interactive 3D modules (Solar System, DNA Helix, Ohm's Law, EM Waves, Photosynthesis, Neon Atom, Java Basics), an AI tutor powered by Gemini 2.5 Flash, 70+ quiz questions, gamified achievements, streaks, and role-based dashboards for Students, Teachers & Admins.
+Makes static STEM textbooks feel ancient. Explore interactive 3D models (solar system, DNA, circuits, waves & more) right in your browser with a Gemini AI tutor, quizzes, and streaks.
 
 [![Repo](https://img.shields.io/badge/GitHub-insight__xr-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/insight_xr)
 [![Live](https://img.shields.io/badge/Live-insight--xr.vercel.app-22c55e?style=flat-square)](https://insight-xr.vercel.app)
-![Lang](https://img.shields.io/badge/TypeScript%20%7C%20Three.js%20%7C%20Firebase-181717?style=flat-square)
+![Stack](https://img.shields.io/badge/TypeScript%20%7C%20Three.js-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
@@ -80,25 +105,34 @@ Next-gen immersive STEM education platform with 7 interactive 3D modules (Solar 
 <td width="50%" valign="top">
 
 ### 🛡️ SecureAI-KYC
-AI-powered deepfake detection and UPI fraud prevention system. Combines computer vision and anomaly detection to flag forged identity documents and suspicious transaction patterns in real time — built for fintech-grade security.
+Built for the National Hackathon 2026 — catches deepfake faces, tampered ID cards, and sketchy payment fraud with a clear, explainable fraud score and an instant compliance PDF.
 
 [![Repo](https://img.shields.io/badge/GitHub-SecureAI--KYC-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/SecureAI-KYC)
-![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
-![Lang](https://img.shields.io/badge/Python%20%7C%20PyTorch%20%7C%20TensorFlow-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Hackathon-2026-8b5cf6?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20%7C%20Next.js-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 ValVoice — Your Chat, Your Voice
-Let your teammates *hear* what you type — in real time. ValVoice converts your Valorant chat (Party, Team, All & Whispers) into speech via an XTTS pipeline and routes it directly to your mic so your whole squad hears it. Streams XTTS audio via `HttpResponse.BodyHandlers.ofInputStream()` into JLayer with event-driven push-to-talk via `java.awt.Robot` — zero temp files, zero JavaFX latency. Runs quietly in the system tray with a sleek dark UI. Local-only, TLS-encrypted, zero analytics.
+### 🔴🟡 Connect4Life
+Play Connect 4 against a sneaky-smart AI using actual **hand gestures on your webcam** — wave over a column to drop your piece, zero mouse clicks required.
 
-[![Repo](https://img.shields.io/badge/GitHub-ValVoice-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/ValVoice)
-![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
-![Lang](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-Connect4Life-181717?style=flat-square&logo=github)](https://github.com/ZeroTrace7/Connect4Life)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20%7C%20OpenCV-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 🕹️ Side Quests & Collabs
+
+- **[Staff-Management](https://github.com/ZeroTrace7/Staff-Management)** — Offline-friendly GPS + selfie attendance & payroll web app built for small teams.
+- **[DentalSite](https://github.com/ZeroTrace7/DentalSite)** ([Live](https://dental-site-inky.vercel.app)) — Clean, animated modern website for a dental clinic.
+- **[Internet-Cafe-Network-Design](https://github.com/ZeroTrace7/Internet-Cafe-Network-Design)** — Multi-branch network simulation with encrypted VPN tunnels and automatic dual-ISP failover.
+- **Hackathon & Team Collabs:** [KisanGuard-AI](https://github.com/ZeroTrace7/KisanGuard-AI) ([Live](https://kisanguard-live.vercel.app) — crop price & weather insights for farmers), [RollSafe](https://github.com/ZeroTrace7/RollSafe) (auto-rollback canary safety net), [ProjectLo](https://github.com/ZeroTrace7/ProjectLo) ([Live](https://project-loo.vercel.app) — campus codebase & hardware rental marketplace), and [Edge-Forge](https://github.com/ZeroTrace7/Edge-Forge) (RL bug-hunting environment).
 
 <br/>
 
@@ -132,26 +166,28 @@ Let your teammates *hear* what you type — in real time. ValVoice converts your
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Frameworks & Libraries**
+**Web, Frameworks & AI**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Cloud & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
